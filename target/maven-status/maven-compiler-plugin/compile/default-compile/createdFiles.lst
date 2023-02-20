@@ -1,0 +1,8 @@
+com\mycompany\ratesweb\core\RatesOnline.class
+com\mycompany\ratesweb\persistence\FilesDB.class
+com\mycompany\ratesweb\core\RatesInterface.class
+com\mycompany\ratesweb\core\RatesOnline$2.class
+com\mycompany\ratesweb\core\RatesDB.class
+com\mycompany\ratesweb\core\RatesOnline$1.class
+com\mycompany\ratesweb\api\RatesResources.class
+com\mycompany\ratesweb\JakartaRestConfiguration.class
